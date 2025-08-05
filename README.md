@@ -23,9 +23,9 @@ WEATHER-APP/
 
 # Screenshots :
 
-![weather-App UI1.png](https://github.com/BabulKumar100/Weather-App/blob/94ee32afd033e81bf917f138e33806432b605e80/weather-App%20UI1.png)
+![weather-App UI1](https://github.com/BabulKumar100/Weather-Application/blob/35da2889d5e25a748d651c4f9013b99d63c2070c/weather-App%20UI1.png)
 
-![weather-APP UI2.png](https://github.com/BabulKumar100/Weather-App/blob/94ee32afd033e81bf917f138e33806432b605e80/weather-App%20UI2.png)
+![weather-APP UI2](https://github.com/BabulKumar100/Weather-Application/blob/35da2889d5e25a748d651c4f9013b99d63c2070c/weather-App%20UI2.png)
 
 # How It works :
 
